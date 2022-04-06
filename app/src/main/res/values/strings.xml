@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SheillinaRichieDiskusi6</string>
+    <string name="alert">Alert</string>
+    <string name="listview">Listview</string>
+    <string name="menghitung">Menghitung</string>
+    <string name="tablayout">Tablayout</string>
+    <string name="materi_alert">Materi Alert :</string>
+    <string name="alert_1">Alert 1</string>
+    <string name="alert_2">Alert 2</string>
+    <string name="alert_3">Alert 3</string>
+    <string name="toast">Toast</string>
+    <string name="durasi">Durasi</string>
+    <string name="ketik_teks">Ketik Teks :</string>
+    <string name="jumlah_huruf_vokal">Jumlah Huruf Vokal</string>
+    <string name="_0">0</string>
+    <string name="hitung">Hitung</string>
+</resources>
